@@ -25,33 +25,23 @@ import Brownhair1 from './brownhair1.jpg';
 import coolor from './coolor.jpg';
 import couplesor from './couplesor.jpg';
 import couples0 from './couples0.jpg';
-import couples1 from './couples1.jpg';
-import beautyhalf from './beautyhalf.jpg';
-import cute0 from './cute0.jpg';
 import cute1 from './cutee1.jpg';
 import Cuteeor from './Cuteeor.jpg';
 import frombed0 from './frombed0.jpg';
 import good0 from './good0.jpg';
-import good1 from './good1.jpg';
-import good2 from './good2.jpg';
 import habeshaor from './habeshaor.jpg';
-import habesha0 from './habesha0.jpg';
 import habesha1 from './habesha1.jpg';
 import Longhairor from './Longhairor.jpg';
 import long0 from './long0.jpg';
-import long1 from './long1.jpg';
 import looking0 from './looking0.jpg';
-import looking1 from './looking1.jpg';
 import Lookor from './Lookor.jpg';
 import photolike0 from './photolike0.jpg';
-import photolike1 from './photolike1.jpg';
 import pissor from './pissor.jpg';
 import piss0 from './piss0.jpg';
 import sad0 from './sad0.jpg';
 import sad1 from './sad1.jpg';
 import Thinkingor from './Thinkingor.jpg';
 import thinking0 from './thinking0.jpg';
-import thinking1 from './thinking1.jpg';
 import glass0 from './glass0.jpg';
 import photolikeor from './photolikeor.jpg';
 import goodor from './goodor.jpg';
@@ -91,34 +81,24 @@ export {
     coolor,
     couplesor,
     couples0,
-    couples1,
-    beautyhalf,
-    cute0,
     cute1,
     Cuteeor,
     frombed0,
     glassor,
     good0,
-    good1,
-    good2,
-    habesha0,
     habesha1,
     habeshaor,
     Longhairor,
     long0,
-    long1,
     looking0,
-    looking1,
     Lookor,
     photolike0,
-    photolike1,
     pissor,
     piss0,
     sad0,
     sad1,
     Thinkingor,
     thinking0,
-    thinking1,
     photolikeor,
     goodor,
     glass0,

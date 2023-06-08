@@ -33,6 +33,12 @@ class App extends Component {
         </div>
         <div className="bg-img">
         </div>
+
+<footer className='text-center fw-semibold small mt-3 d-block d-md-none'>
+          <p>Developed by:
+            <a href="https://kidus-w.web.app"> Kidus</a>
+          </p>
+        </footer>
       </>
     );
   }

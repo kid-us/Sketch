@@ -27,8 +27,7 @@ const Hero = (info) => {
                                 <a href="https://www.linkedin.com/in/kid-us/" className="bi bi-linkedin text-dark me-4"></a>
                             </div>
 
-                             {/* Display only on large device */}
-
+                            {/* Hidden on small device */}
                             <p className='fw-semibold d-none d-md-block mt-5 bi-code small ms-2' title='Kidus'>
                             Developer 
                                  <a href="https://kidus-w.web.app" className='small text-danger'>

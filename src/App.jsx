@@ -21,7 +21,7 @@ class App extends Component {
 
 <footer className='text-center fw-semibold small mt-3 d-block d-md-none'>
           <p>Developed by:
-            <a href="https://kidus-w.web.app"> Kidus</a>
+            <a href="https://kiduswebsdev.web.app"> Kidus</a>
           </p>
         </footer>
       </>
